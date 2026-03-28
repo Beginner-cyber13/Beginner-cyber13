@@ -31,7 +31,7 @@ Email: sarmadkhursheed58@gmail.com
 
 Location: Based in Pakistan 🇵🇰
 
-LinkedIn: linkedin.com/in/sarmad-khursheed-0504883ab
+LinkedIn: in/sarmad-khursheed-0504883ab
 
 <!--
 **Beginner-cyber13/Beginner-cyber13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
